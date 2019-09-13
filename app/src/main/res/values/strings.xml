@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Al-Qur\'anApp-Dicoding</string>
+    <string name="name_quran">Nama Surah</string>
+    <string name="content_identity">Keterangan Surah</string>
+    <string name="title_identity">Nama Surah : \nArti Nama : \nJumlah Ayat : \nTempat Turun : \nUrutan Perwahyuan : </string>
+    <string name="quran_identity">Tentang Surah</string>
+    <string name="name_me">Nama : \nHafid Agung Nugroho</string>
+    <string name="email_me">Email : \nnugroho31.com@gmail.com</string>
+    <string name="quran_overview">Penjelasan Surah</string>
+    <string name="overview">Penjelasan Surah</string>
+    <string name="jumlah_surah">Jumlah Surah</string>
+</resources>
